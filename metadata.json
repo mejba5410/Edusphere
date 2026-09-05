@@ -1,0 +1,6 @@
+{
+  "name": "EduSphere",
+  "description": "A professional full-stack online learning platform with student, instructor, and admin dashboards, role-based access control, progress tracking, quiz systems, and certificate verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
